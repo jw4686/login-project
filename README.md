@@ -1,2 +1,1 @@
-# login-project
-login-project
+백엔드 개발 강의
